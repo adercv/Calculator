@@ -1,6 +1,4 @@
 ## Apple Calculator Clone Made With React.js
 
-In the project directory, you can run:
-
-### `yarn start`
+### Start the calculator run by opening the terminal inside the root folder and typing `npm start` or` yarn start`
 
